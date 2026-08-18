@@ -1,0 +1,806 @@
+{
+  "description": "标杆演讲库 - TED Talks & American Rhetoric",
+  "version": "1.0",
+  "language": "en",
+  "ted_talks_count": 5,
+  "american_rhetoric_count": 5,
+  "ted_talks": [
+    {
+      "id": "ted_001",
+      "title": "How Great Leaders Inspire Action",
+      "speaker": "Simon Sinek",
+      "tags": [
+        "leadership",
+        "inspiration",
+        "business",
+        "motivation"
+      ],
+      "vad_curve": [
+        {
+          "position": 0.05,
+          "v": 6.2,
+          "a": 4.5,
+          "d": 5.8
+        },
+        {
+          "position": 0.15,
+          "v": 5.8,
+          "a": 4.0,
+          "d": 5.5
+        },
+        {
+          "position": 0.25,
+          "v": 6.0,
+          "a": 5.0,
+          "d": 6.0
+        },
+        {
+          "position": 0.35,
+          "v": 5.5,
+          "a": 4.5,
+          "d": 5.8
+        },
+        {
+          "position": 0.45,
+          "v": 6.2,
+          "a": 5.5,
+          "d": 6.2
+        },
+        {
+          "position": 0.55,
+          "v": 5.8,
+          "a": 5.0,
+          "d": 6.0
+        },
+        {
+          "position": 0.65,
+          "v": 6.5,
+          "a": 6.0,
+          "d": 6.5
+        },
+        {
+          "position": 0.75,
+          "v": 6.8,
+          "a": 6.5,
+          "d": 6.8
+        },
+        {
+          "position": 0.85,
+          "v": 7.2,
+          "a": 7.0,
+          "d": 7.2
+        },
+        {
+          "position": 0.95,
+          "v": 7.5,
+          "a": 7.5,
+          "d": 7.5
+        }
+      ],
+      "emotion_structure": {
+        "opening": "Affability",
+        "body_front": "Composure",
+        "body_back": "Conviction",
+        "ending": "Passion"
+      }
+    },
+    {
+      "id": "ted_002",
+      "title": "The Power of Vulnerability",
+      "speaker": "Brené Brown",
+      "tags": [
+        "vulnerability",
+        "emotion",
+        "psychology",
+        "self-help"
+      ],
+      "vad_curve": [
+        {
+          "position": 0.05,
+          "v": 6.5,
+          "a": 4.0,
+          "d": 5.0
+        },
+        {
+          "position": 0.15,
+          "v": 5.8,
+          "a": 4.5,
+          "d": 4.8
+        },
+        {
+          "position": 0.25,
+          "v": 5.2,
+          "a": 5.0,
+          "d": 4.5
+        },
+        {
+          "position": 0.35,
+          "v": 5.5,
+          "a": 4.8,
+          "d": 4.8
+        },
+        {
+          "position": 0.45,
+          "v": 6.0,
+          "a": 5.2,
+          "d": 5.2
+        },
+        {
+          "position": 0.55,
+          "v": 5.8,
+          "a": 5.5,
+          "d": 5.0
+        },
+        {
+          "position": 0.65,
+          "v": 6.2,
+          "a": 5.8,
+          "d": 5.5
+        },
+        {
+          "position": 0.75,
+          "v": 6.8,
+          "a": 6.0,
+          "d": 5.8
+        },
+        {
+          "position": 0.85,
+          "v": 7.2,
+          "a": 6.2,
+          "d": 6.0
+        },
+        {
+          "position": 0.95,
+          "v": 7.5,
+          "a": 6.5,
+          "d": 6.2
+        }
+      ],
+      "emotion_structure": {
+        "opening": "Affability",
+        "body_front": "Deep Emotion",
+        "body_back": "Deep Emotion",
+        "ending": "Deep Emotion"
+      }
+    },
+    {
+      "id": "ted_003",
+      "title": "Do Schools Kill Creativity?",
+      "speaker": "Ken Robinson",
+      "tags": [
+        "education",
+        "creativity",
+        "humor",
+        "children"
+      ],
+      "vad_curve": [
+        {
+          "position": 0.05,
+          "v": 6.8,
+          "a": 4.5,
+          "d": 5.5
+        },
+        {
+          "position": 0.15,
+          "v": 7.0,
+          "a": 5.0,
+          "d": 5.8
+        },
+        {
+          "position": 0.25,
+          "v": 6.5,
+          "a": 4.8,
+          "d": 5.5
+        },
+        {
+          "position": 0.35,
+          "v": 6.8,
+          "a": 5.2,
+          "d": 5.8
+        },
+        {
+          "position": 0.45,
+          "v": 6.2,
+          "a": 4.5,
+          "d": 5.2
+        },
+        {
+          "position": 0.55,
+          "v": 6.5,
+          "a": 5.0,
+          "d": 5.5
+        },
+        {
+          "position": 0.65,
+          "v": 6.0,
+          "a": 4.8,
+          "d": 5.2
+        },
+        {
+          "position": 0.75,
+          "v": 6.5,
+          "a": 5.5,
+          "d": 5.8
+        },
+        {
+          "position": 0.85,
+          "v": 7.0,
+          "a": 6.0,
+          "d": 6.2
+        },
+        {
+          "position": 0.95,
+          "v": 7.2,
+          "a": 6.5,
+          "d": 6.5
+        }
+      ],
+      "emotion_structure": {
+        "opening": "Humor",
+        "body_front": "Critical Thinking",
+        "body_back": "Conviction",
+        "ending": "Passion"
+      }
+    },
+    {
+      "id": "ted_004",
+      "title": "Inside the Mind of a Master Procrastinator",
+      "speaker": "Tim Urban",
+      "tags": [
+        "procrastination",
+        "humor",
+        "psychology",
+        "self-improvement"
+      ],
+      "vad_curve": [
+        {
+          "position": 0.05,
+          "v": 7.0,
+          "a": 5.0,
+          "d": 5.5
+        },
+        {
+          "position": 0.15,
+          "v": 7.2,
+          "a": 5.5,
+          "d": 5.8
+        },
+        {
+          "position": 0.25,
+          "v": 6.8,
+          "a": 5.2,
+          "d": 5.5
+        },
+        {
+          "position": 0.35,
+          "v": 7.0,
+          "a": 5.8,
+          "d": 5.8
+        },
+        {
+          "position": 0.45,
+          "v": 6.5,
+          "a": 5.0,
+          "d": 5.2
+        },
+        {
+          "position": 0.55,
+          "v": 6.8,
+          "a": 5.5,
+          "d": 5.5
+        },
+        {
+          "position": 0.65,
+          "v": 6.2,
+          "a": 4.8,
+          "d": 5.0
+        },
+        {
+          "position": 0.75,
+          "v": 6.5,
+          "a": 5.2,
+          "d": 5.5
+        },
+        {
+          "position": 0.85,
+          "v": 7.0,
+          "a": 6.0,
+          "d": 6.0
+        },
+        {
+          "position": 0.95,
+          "v": 7.5,
+          "a": 6.8,
+          "d": 6.5
+        }
+      ],
+      "emotion_structure": {
+        "opening": "Humor",
+        "body_front": "Humor",
+        "body_back": "Critical Thinking",
+        "ending": "Conviction"
+      }
+    },
+    {
+      "id": "ted_005",
+      "title": "Your Body Language May Shape Who You Are",
+      "speaker": "Amy Cuddy",
+      "tags": [
+        "body language",
+        "psychology",
+        "self-improvement",
+        "confidence"
+      ],
+      "vad_curve": [
+        {
+          "position": 0.05,
+          "v": 6.2,
+          "a": 4.0,
+          "d": 5.5
+        },
+        {
+          "position": 0.15,
+          "v": 5.8,
+          "a": 3.8,
+          "d": 5.2
+        },
+        {
+          "position": 0.25,
+          "v": 6.0,
+          "a": 4.5,
+          "d": 5.8
+        },
+        {
+          "position": 0.35,
+          "v": 5.5,
+          "a": 4.2,
+          "d": 5.5
+        },
+        {
+          "position": 0.45,
+          "v": 6.2,
+          "a": 5.0,
+          "d": 6.0
+        },
+        {
+          "position": 0.55,
+          "v": 5.8,
+          "a": 4.8,
+          "d": 5.8
+        },
+        {
+          "position": 0.65,
+          "v": 6.5,
+          "a": 5.5,
+          "d": 6.2
+        },
+        {
+          "position": 0.75,
+          "v": 6.8,
+          "a": 6.0,
+          "d": 6.5
+        },
+        {
+          "position": 0.85,
+          "v": 7.2,
+          "a": 6.5,
+          "d": 7.0
+        },
+        {
+          "position": 0.95,
+          "v": 7.5,
+          "a": 7.0,
+          "d": 7.5
+        }
+      ],
+      "emotion_structure": {
+        "opening": "Affability",
+        "body_front": "Composure",
+        "body_back": "Conviction",
+        "ending": "Passion"
+      }
+    }
+  ],
+  "american_rhetoric": [
+    {
+      "id": "ar_001",
+      "title": "I Have a Dream",
+      "speaker": "Martin Luther King Jr.",
+      "tags": [
+        "civil rights",
+        "dream",
+        "equality",
+        "justice",
+        "historic"
+      ],
+      "vad_curve": [
+        {
+          "position": 0.05,
+          "v": 5.5,
+          "a": 4.0,
+          "d": 5.0
+        },
+        {
+          "position": 0.15,
+          "v": 5.2,
+          "a": 4.5,
+          "d": 4.8
+        },
+        {
+          "position": 0.25,
+          "v": 5.8,
+          "a": 5.0,
+          "d": 5.5
+        },
+        {
+          "position": 0.35,
+          "v": 5.5,
+          "a": 5.5,
+          "d": 5.2
+        },
+        {
+          "position": 0.45,
+          "v": 6.2,
+          "a": 6.0,
+          "d": 6.0
+        },
+        {
+          "position": 0.55,
+          "v": 6.0,
+          "a": 6.5,
+          "d": 5.8
+        },
+        {
+          "position": 0.65,
+          "v": 6.8,
+          "a": 7.0,
+          "d": 6.5
+        },
+        {
+          "position": 0.75,
+          "v": 7.2,
+          "a": 7.5,
+          "d": 7.0
+        },
+        {
+          "position": 0.85,
+          "v": 7.8,
+          "a": 8.0,
+          "d": 7.5
+        },
+        {
+          "position": 0.95,
+          "v": 8.2,
+          "a": 8.5,
+          "d": 8.0
+        }
+      ],
+      "emotion_structure": {
+        "opening": "Solemnity",
+        "body_front": "Deep Emotion",
+        "body_back": "Conviction",
+        "ending": "Passion"
+      }
+    },
+    {
+      "id": "ar_002",
+      "title": "Gettysburg Address",
+      "speaker": "Abraham Lincoln",
+      "tags": [
+        "civil war",
+        "freedom",
+        "memorial",
+        "historic",
+        "concise"
+      ],
+      "vad_curve": [
+        {
+          "position": 0.05,
+          "v": 5.0,
+          "a": 3.5,
+          "d": 5.0
+        },
+        {
+          "position": 0.15,
+          "v": 4.8,
+          "a": 3.8,
+          "d": 4.8
+        },
+        {
+          "position": 0.25,
+          "v": 5.2,
+          "a": 4.2,
+          "d": 5.2
+        },
+        {
+          "position": 0.35,
+          "v": 5.0,
+          "a": 4.5,
+          "d": 5.0
+        },
+        {
+          "position": 0.45,
+          "v": 5.5,
+          "a": 5.0,
+          "d": 5.5
+        },
+        {
+          "position": 0.55,
+          "v": 5.8,
+          "a": 5.5,
+          "d": 5.8
+        },
+        {
+          "position": 0.65,
+          "v": 6.2,
+          "a": 6.0,
+          "d": 6.2
+        },
+        {
+          "position": 0.75,
+          "v": 6.8,
+          "a": 6.5,
+          "d": 6.8
+        },
+        {
+          "position": 0.85,
+          "v": 7.5,
+          "a": 7.0,
+          "d": 7.5
+        },
+        {
+          "position": 0.95,
+          "v": 8.0,
+          "a": 7.5,
+          "d": 8.0
+        }
+      ],
+      "emotion_structure": {
+        "opening": "Solemnity",
+        "body_front": "Composure",
+        "body_back": "Conviction",
+        "ending": "Passion"
+      }
+    },
+    {
+      "id": "ar_003",
+      "title": "The Only Thing We Have to Fear is Fear Itself",
+      "speaker": "Franklin D. Roosevelt",
+      "tags": [
+        "great depression",
+        "hope",
+        "leadership",
+        "inaugural",
+        "historic"
+      ],
+      "vad_curve": [
+        {
+          "position": 0.05,
+          "v": 4.5,
+          "a": 4.0,
+          "d": 4.5
+        },
+        {
+          "position": 0.15,
+          "v": 4.8,
+          "a": 4.5,
+          "d": 5.0
+        },
+        {
+          "position": 0.25,
+          "v": 5.2,
+          "a": 5.0,
+          "d": 5.5
+        },
+        {
+          "position": 0.35,
+          "v": 5.0,
+          "a": 4.8,
+          "d": 5.2
+        },
+        {
+          "position": 0.45,
+          "v": 5.8,
+          "a": 5.5,
+          "d": 6.0
+        },
+        {
+          "position": 0.55,
+          "v": 5.5,
+          "a": 5.2,
+          "d": 5.8
+        },
+        {
+          "position": 0.65,
+          "v": 6.2,
+          "a": 6.0,
+          "d": 6.5
+        },
+        {
+          "position": 0.75,
+          "v": 6.8,
+          "a": 6.5,
+          "d": 7.0
+        },
+        {
+          "position": 0.85,
+          "v": 7.2,
+          "a": 7.0,
+          "d": 7.5
+        },
+        {
+          "position": 0.95,
+          "v": 7.5,
+          "a": 7.5,
+          "d": 8.0
+        }
+      ],
+      "emotion_structure": {
+        "opening": "Solemnity",
+        "body_front": "Composure",
+        "body_back": "Conviction",
+        "ending": "Conviction"
+      }
+    },
+    {
+      "id": "ar_004",
+      "title": "Tear Down This Wall",
+      "speaker": "Ronald Reagan",
+      "tags": [
+        "cold war",
+        "freedom",
+        "berlin",
+        "historic",
+        "conviction"
+      ],
+      "vad_curve": [
+        {
+          "position": 0.05,
+          "v": 5.5,
+          "a": 4.0,
+          "d": 5.8
+        },
+        {
+          "position": 0.15,
+          "v": 5.8,
+          "a": 4.5,
+          "d": 6.0
+        },
+        {
+          "position": 0.25,
+          "v": 5.5,
+          "a": 4.8,
+          "d": 5.8
+        },
+        {
+          "position": 0.35,
+          "v": 6.0,
+          "a": 5.2,
+          "d": 6.2
+        },
+        {
+          "position": 0.45,
+          "v": 5.8,
+          "a": 5.0,
+          "d": 6.0
+        },
+        {
+          "position": 0.55,
+          "v": 6.2,
+          "a": 5.8,
+          "d": 6.5
+        },
+        {
+          "position": 0.65,
+          "v": 6.5,
+          "a": 6.2,
+          "d": 6.8
+        },
+        {
+          "position": 0.75,
+          "v": 7.0,
+          "a": 6.8,
+          "d": 7.2
+        },
+        {
+          "position": 0.85,
+          "v": 7.5,
+          "a": 7.5,
+          "d": 7.8
+        },
+        {
+          "position": 0.95,
+          "v": 7.8,
+          "a": 8.0,
+          "d": 8.2
+        }
+      ],
+      "emotion_structure": {
+        "opening": "Composure",
+        "body_front": "Composure",
+        "body_back": "Conviction",
+        "ending": "Passion"
+      }
+    },
+    {
+      "id": "ar_005",
+      "title": "I Am Prepared to Die",
+      "speaker": "Nelson Mandela",
+      "tags": [
+        "apartheid",
+        "justice",
+        "freedom",
+        "historic",
+        "conviction"
+      ],
+      "vad_curve": [
+        {
+          "position": 0.05,
+          "v": 4.8,
+          "a": 3.8,
+          "d": 5.0
+        },
+        {
+          "position": 0.15,
+          "v": 4.5,
+          "a": 4.0,
+          "d": 4.8
+        },
+        {
+          "position": 0.25,
+          "v": 5.0,
+          "a": 4.5,
+          "d": 5.2
+        },
+        {
+          "position": 0.35,
+          "v": 4.8,
+          "a": 4.8,
+          "d": 5.0
+        },
+        {
+          "position": 0.45,
+          "v": 5.5,
+          "a": 5.2,
+          "d": 5.8
+        },
+        {
+          "position": 0.55,
+          "v": 5.2,
+          "a": 5.0,
+          "d": 5.5
+        },
+        {
+          "position": 0.65,
+          "v": 6.0,
+          "a": 5.8,
+          "d": 6.2
+        },
+        {
+          "position": 0.75,
+          "v": 6.5,
+          "a": 6.5,
+          "d": 6.8
+        },
+        {
+          "position": 0.85,
+          "v": 7.0,
+          "a": 7.2,
+          "d": 7.5
+        },
+        {
+          "position": 0.95,
+          "v": 7.5,
+          "a": 7.8,
+          "d": 8.0
+        }
+      ],
+      "emotion_structure": {
+        "opening": "Solemnity",
+        "body_front": "Composure",
+        "body_back": "Conviction",
+        "ending": "Conviction"
+      }
+    }
+  ]
+}
