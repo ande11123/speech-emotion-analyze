@@ -1,0 +1,8 @@
+streamlit
+streamlit-audiorecorder
+numpy
+pandas
+soundfile
+SpeechRecognition
+vaderSentiment
+matplotlib
