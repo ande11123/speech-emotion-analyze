@@ -6,3 +6,4 @@ soundfile
 SpeechRecognition
 vaderSentiment
 matplotlib
+pydub
